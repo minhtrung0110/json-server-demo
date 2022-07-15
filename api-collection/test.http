@@ -1,0 +1,14 @@
+//Category
+# @name getAllCategories
+GET http://localhost:3000/api/categories
+
+###
+
+###
+
+
+
+###
+//Products
+# @name getAllProducts
+GET  http://localhost:3000/api/products/
