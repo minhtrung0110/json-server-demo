@@ -20,4 +20,6 @@ Project đang sử dụng Faker phiên bản 5.0<br>
 Bên cạnh đó cũng đẵ install 2 libs là causual và @faker-js/faker
 
 ## Hướng Dẫn Sử Dụng 🍴🍽
-npm start
+npm start<br>
+## Gọi API 
+Link gọi api: https://basic-json-server.herokuapp.com/api/
