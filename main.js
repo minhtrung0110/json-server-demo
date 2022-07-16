@@ -58,6 +58,9 @@ router.render = (req, res) => {
 
 // Thêm subdomail /api vào đây
 server.use("/api",router)
-server.listen(3000, () => {
+
+// start Server
+const PORT =process.env.PORT || 3000 
+server.listen(PORT, () => {
   console.log('JSON Server is running')
 })
