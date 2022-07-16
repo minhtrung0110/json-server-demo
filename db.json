@@ -1,1 +1,215 @@
-{"categories":[{"id":"f9b82e73-a144-47d6-a6f6-26e49546b878","name":"Games","createdAt":1657862238476,"updatedAt":1657862238476},{"id":"c78c980e-6729-4ba4-8cf7-fce19f238363","name":"Computers","createdAt":1657862238476,"updatedAt":1657862238476}],"products":[{"id":"ed9d50c5-9e4d-4714-bc0a-c578ed6a404d","name":"Small Frozen Pants","categoryId":"f9b82e73-a144-47d6-a6f6-26e49546b878","price":"58.00","color":"orange","description":"Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals","thumbnailUrl":"http://placeimg.com/450/420","createdAt":1657862238476,"updatedAt":1657862238476},{"id":"a7fc1993-780f-42bd-8189-b51a454cce33","name":"Handmade Metal Tuna","categoryId":"f9b82e73-a144-47d6-a6f6-26e49546b878","price":"648.00","color":"salmon","description":"Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles","thumbnailUrl":"http://placeimg.com/450/420","createdAt":1657862238476,"updatedAt":1657862238476},{"id":"c4307fb6-e5b2-440e-b89a-4a8c20e48f4d","name":"Awesome Soft Pizza","categoryId":"f9b82e73-a144-47d6-a6f6-26e49546b878","price":"406.00","color":"green","description":"The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients","thumbnailUrl":"http://placeimg.com/450/420","createdAt":1657862238476,"updatedAt":1657862238476},{"id":"ef148cef-f5c8-47db-8acb-bdca161199c9","name":"Incredible Steel Chicken","categoryId":"c78c980e-6729-4ba4-8cf7-fce19f238363","price":"254.00","color":"grey","description":"The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J","thumbnailUrl":"http://placeimg.com/450/420","createdAt":1657862238476,"updatedAt":1657862238476},{"id":"bbb253ab-0e01-4504-a02e-931447d2bbd2","name":"Ergonomic Cotton Towels","categoryId":"c78c980e-6729-4ba4-8cf7-fce19f238363","price":"225.00","color":"sky blue","description":"The Football Is Good For Training And Recreational Purposes","thumbnailUrl":"http://placeimg.com/450/420","createdAt":1657862238476,"updatedAt":1657862238476},{"id":"3908daae-ca0e-49e9-b895-4e109f24de39","name":"Awesome Concrete Hat","categoryId":"c78c980e-6729-4ba4-8cf7-fce19f238363","price":"322.00","color":"orange","description":"The Football Is Good For Training And Recreational Purposes","thumbnailUrl":"http://placeimg.com/450/420","createdAt":1657862238476,"updatedAt":1657862238476}],"customers":[{"id":"a314b0df-98ed-40c3-997b-aa98800054fd","first_name":"Đặng","last_name":"Hữu","email":"T.Kha@gmail.com","phone":"0228 7185 2223","addresss":"423 Phùng Manors","createdAt":1657862238477,"updatedAt":1657862238477}],"invoices":[{"id":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","customerId":"a314b0df-98ed-40c3-997b-aa98800054fd","total":"410.00","createdAt":1657862238477,"updatedAt":1657862238477}],"detail_invoices":[{"id":"93782ea1-75a9-4b5e-a249-6c07937c6349","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"ed9d50c5-9e4d-4714-bc0a-c578ed6a404d","amount":"53.80","price":"58.00","createdAt":1657862238477,"updatedAt":1657862238477},{"id":"29c538bf-c790-401a-81e5-83e6694224da","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"ed9d50c5-9e4d-4714-bc0a-c578ed6a404d","amount":"987.07","price":"58.00","createdAt":1657862238477,"updatedAt":1657862238477},{"id":"0ec95ec1-6905-4638-a126-85bdba4f5e2c","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"a7fc1993-780f-42bd-8189-b51a454cce33","amount":"885.33","price":"648.00","createdAt":1657862238477,"updatedAt":1657862238477},{"id":"383256cd-dc27-43af-ad98-d520d42038d8","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"a7fc1993-780f-42bd-8189-b51a454cce33","amount":"938.51","price":"648.00","createdAt":1657862238477,"updatedAt":1657862238477},{"id":"337eed52-0286-4345-ac4c-d2e4d88394e7","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"c4307fb6-e5b2-440e-b89a-4a8c20e48f4d","amount":"848.55","price":"406.00","createdAt":1657862238478,"updatedAt":1657862238478},{"id":"ccc0f373-e6fa-4afb-a438-58f86c920ba6","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"c4307fb6-e5b2-440e-b89a-4a8c20e48f4d","amount":"536.71","price":"406.00","createdAt":1657862238478,"updatedAt":1657862238478},{"id":"27b05966-c077-4d9e-bcf1-0feb147491cd","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"ef148cef-f5c8-47db-8acb-bdca161199c9","amount":"349.86","price":"254.00","createdAt":1657862238478,"updatedAt":1657862238478},{"id":"3ffb4172-1038-4689-8407-090602fb76ee","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"ef148cef-f5c8-47db-8acb-bdca161199c9","amount":"764.07","price":"254.00","createdAt":1657862238478,"updatedAt":1657862238478},{"id":"60c79746-a8a0-45d2-947e-b414d3f2bc6b","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"bbb253ab-0e01-4504-a02e-931447d2bbd2","amount":"628.18","price":"225.00","createdAt":1657862238478,"updatedAt":1657862238478},{"id":"3c8b425b-1eef-474e-8ada-c5ae45470348","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"bbb253ab-0e01-4504-a02e-931447d2bbd2","amount":"137.06","price":"225.00","createdAt":1657862238478,"updatedAt":1657862238478},{"id":"67920ebe-3d3f-41e5-ba4d-ecdfbd07efb2","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"3908daae-ca0e-49e9-b895-4e109f24de39","amount":"674.78","price":"322.00","createdAt":1657862238478,"updatedAt":1657862238478},{"id":"a693a4c1-205c-4d50-b1d0-07ab88512d1c","invoiceId":"4d80d842-33ee-4c13-ba1a-b71e1e46e253","productId":"3908daae-ca0e-49e9-b895-4e109f24de39","amount":"385.81","price":"322.00","createdAt":1657862238478,"updatedAt":1657862238478}]}
+{
+  "categories": [
+    {
+      "id": "a9b31cc6-be65-4907-8f46-e03a789d330a",
+      "name": "Baby",
+      "createdAt": 1657962496793,
+      "updatedAt": 1657962496793
+    },
+    {
+      "id": "367d2b8d-0824-495b-96c9-8508d9b64563",
+      "name": "Movies",
+      "createdAt": 1657962496793,
+      "updatedAt": 1657962496793
+    }
+  ],
+  "products": [
+    {
+      "id": "9f90dccc-0578-49cb-82c9-0a8deb54a894",
+      "name": "Incredible Fresh Shirt",
+      "categoryId": "a9b31cc6-be65-4907-8f46-e03a789d330a",
+      "price": "27.00",
+      "color": "red",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "thumbnailUrl": "http://placeimg.com/450/420",
+      "createdAt": 1657962496793,
+      "updatedAt": 1657962496793
+    },
+    {
+      "id": "b9419b68-ea3d-4340-95dc-8ebc1171153d",
+      "name": "Tasty Steel Shirt",
+      "categoryId": "a9b31cc6-be65-4907-8f46-e03a789d330a",
+      "price": "837.00",
+      "color": "violet",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "thumbnailUrl": "http://placeimg.com/450/420",
+      "createdAt": 1657962496793,
+      "updatedAt": 1657962496793
+    },
+    {
+      "id": "f3d9f2e4-d2c5-46dd-a1b9-584915855910",
+      "name": "Practical Cotton Chair",
+      "categoryId": "a9b31cc6-be65-4907-8f46-e03a789d330a",
+      "price": "76.00",
+      "color": "azure",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "thumbnailUrl": "http://placeimg.com/450/420",
+      "createdAt": 1657962496793,
+      "updatedAt": 1657962496793
+    },
+    {
+      "id": "e7a368c9-77ee-4f60-85f1-5bd04ccaedd1",
+      "name": "Licensed Frozen Bike",
+      "categoryId": "367d2b8d-0824-495b-96c9-8508d9b64563",
+      "price": "283.00",
+      "color": "purple",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "thumbnailUrl": "http://placeimg.com/450/420",
+      "createdAt": 1657962496793,
+      "updatedAt": 1657962496793
+    },
+    {
+      "id": "caf6952c-3735-421a-a726-345aabd9756e",
+      "name": "Intelligent Cotton Table",
+      "categoryId": "367d2b8d-0824-495b-96c9-8508d9b64563",
+      "price": "540.00",
+      "color": "violet",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "thumbnailUrl": "http://placeimg.com/450/420",
+      "createdAt": 1657962496794,
+      "updatedAt": 1657962496794
+    },
+    {
+      "id": "a49cbeba-cf8a-4202-8679-21f20e33dd70",
+      "name": "Sleek Soft Table",
+      "categoryId": "367d2b8d-0824-495b-96c9-8508d9b64563",
+      "price": "508.00",
+      "color": "blue",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "thumbnailUrl": "http://placeimg.com/450/420",
+      "createdAt": 1657962496794,
+      "updatedAt": 1657962496794
+    }
+  ],
+  "customers": [
+    {
+      "id": "a91f340c-8a6e-4378-9f5f-8d2304f2b958",
+      "first_name": "Vũ",
+      "last_name": "Kha",
+      "email": "Tng90@yahoo.com",
+      "phone": "026 0688 3078",
+      "addresss": "754 Đặng Ways",
+      "createdAt": 1657962496795,
+      "updatedAt": 1657962496795
+    }
+  ],
+  "invoices": [
+    {
+      "id": "677ea254-c885-497b-ae7b-529beceb9927",
+      "customerId": "a91f340c-8a6e-4378-9f5f-8d2304f2b958",
+      "total": "238.00",
+      "createdAt": 1657962496795,
+      "updatedAt": 1657962496795
+    }
+  ],
+  "detail_invoices": [
+    {
+      "id": "fd8f0a57-2811-40a0-ac42-9045a80015f8",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "9f90dccc-0578-49cb-82c9-0a8deb54a894",
+      "amount": "535.38",
+      "price": "27.00",
+      "createdAt": 1657962496795,
+      "updatedAt": 1657962496795
+    },
+    {
+      "id": "bbc39083-0a0e-40d4-9f64-c71b1deb1104",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "9f90dccc-0578-49cb-82c9-0a8deb54a894",
+      "amount": "131.08",
+      "price": "27.00",
+      "createdAt": 1657962496795,
+      "updatedAt": 1657962496795
+    },
+    {
+      "id": "198ed5b9-49fc-4276-860e-34397ab21c03",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "b9419b68-ea3d-4340-95dc-8ebc1171153d",
+      "amount": "823.19",
+      "price": "837.00",
+      "createdAt": 1657962496795,
+      "updatedAt": 1657962496795
+    },
+    {
+      "id": "52e6bff1-45c5-438a-a5fc-70760fa35639",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "b9419b68-ea3d-4340-95dc-8ebc1171153d",
+      "amount": "662.65",
+      "price": "837.00",
+      "createdAt": 1657962496795,
+      "updatedAt": 1657962496795
+    },
+    {
+      "id": "31b20894-39d8-4cdf-8d1f-a627147214c0",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "f3d9f2e4-d2c5-46dd-a1b9-584915855910",
+      "amount": "615.67",
+      "price": "76.00",
+      "createdAt": 1657962496795,
+      "updatedAt": 1657962496795
+    },
+    {
+      "id": "40f0a52a-095f-478a-82e9-71651e3a08c2",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "f3d9f2e4-d2c5-46dd-a1b9-584915855910",
+      "amount": "125.23",
+      "price": "76.00",
+      "createdAt": 1657962496796,
+      "updatedAt": 1657962496796
+    },
+    {
+      "id": "05e93d19-47a1-4abe-8a79-b38007e1c489",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "e7a368c9-77ee-4f60-85f1-5bd04ccaedd1",
+      "amount": "124.27",
+      "price": "283.00",
+      "createdAt": 1657962496796,
+      "updatedAt": 1657962496796
+    },
+    {
+      "id": "a86bfa85-e6c8-44a0-a7c1-447299b919b4",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "e7a368c9-77ee-4f60-85f1-5bd04ccaedd1",
+      "amount": "886.73",
+      "price": "283.00",
+      "createdAt": 1657962496796,
+      "updatedAt": 1657962496796
+    },
+    {
+      "id": "343106de-b96d-49db-aeb9-1bc1ba9f32f1",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "caf6952c-3735-421a-a726-345aabd9756e",
+      "amount": "580.24",
+      "price": "540.00",
+      "createdAt": 1657962496796,
+      "updatedAt": 1657962496796
+    },
+    {
+      "id": "4c277e36-deed-416d-8699-b09cecfcc340",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "caf6952c-3735-421a-a726-345aabd9756e",
+      "amount": "397.73",
+      "price": "540.00",
+      "createdAt": 1657962496796,
+      "updatedAt": 1657962496796
+    },
+    {
+      "id": "a6fa9738-393b-48f7-8f39-ea6d2a0b9080",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "a49cbeba-cf8a-4202-8679-21f20e33dd70",
+      "amount": "13.29",
+      "price": "508.00",
+      "createdAt": 1657962496796,
+      "updatedAt": 1657962496796
+    },
+    {
+      "id": "64297598-4b2c-462c-9e4c-f468c18dfc5c",
+      "invoiceId": "677ea254-c885-497b-ae7b-529beceb9927",
+      "productId": "a49cbeba-cf8a-4202-8679-21f20e33dd70",
+      "amount": "228.42",
+      "price": "508.00",
+      "createdAt": 1657962496796,
+      "updatedAt": 1657962496796
+    }
+  ]
+}
