@@ -120,18 +120,26 @@ const randomDetailInvoiceList = (invoiceList,productList,n) => {
    
     return  detail_invoiceList;
   };
+
+
 // prepare db object
 const categories=randomCategoryList(2)
 const products=randomProductList(categories,3)
 const customers=randomCustomerList(1)
 const invoices=randomInvoiceList(customers,1)
 const detail_invoices=randomDetailInvoiceList(invoices,products,2)
+const sliders=[
+  {id:1,name:'Spring / Winter Collection 2021',description:'Get up to 30% Off New Arrivals',img:'slider_1.jpg'},
+  {id:2,name:'Spring / Summer Collection 2021',description:'Get up to 20% Off New Arrivals',img:'slider_2.jpg'},
+  {id:3,name:'Spring Collection 2022',description:'Get up to 25% Off New Arrivals',img:'slider_3.jpg'}
+];
 const db={
     "categories": categories,
     "products": products,
     "customers":customers,
     "invoices": invoices,
-    "detail_invoices": detail_invoices
+    "detail_invoices": detail_invoices,
+    "sliders": sliders,
   }
 
 
