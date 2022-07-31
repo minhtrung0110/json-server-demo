@@ -128,18 +128,21 @@ const categories=[
   {
       "id": "61b7b751-6d25-4a37-83b7-ee629ddada18",
       "name": "Women",
+      "img":'banner_women.jpg',
       "createdAt": 1659277759825,
       "updatedAt": 1659277759825
   },
   {
     "id": "a4r94212-e0e4-745h-a987-ee62990db2cb",
     "name": "Accessories",
+    "img":'banner_accessories.jpg',
     "createdAt": 1659277759825,
     "updatedAt": 1659277759825
 },
   {
       "id": "b2d94212-e0e4-459b-b688-5a09790db2cb",
       "name": "Men",
+      "img":'banner_men.jpg',
       "createdAt": 1659277759825,
       "updatedAt": 1659277759825
   },
