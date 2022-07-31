@@ -129,9 +129,11 @@ const customers=randomCustomerList(1)
 const invoices=randomInvoiceList(customers,1)
 const detail_invoices=randomDetailInvoiceList(invoices,products,2)
 const sliders=[
-  {id:1,name:'Spring / Winter Collection 2021',description:'Get up to 30% Off New Arrivals',img:'slider_1.jpg'},
+  {id:1,name:'Abuta / Winter Collection 2021',description:'Get up to 30% Off New Arrivals',img:'slider_1.jpg'},
   {id:2,name:'Spring / Summer Collection 2021',description:'Get up to 20% Off New Arrivals',img:'slider_2.jpg'},
-  {id:3,name:'Spring Collection 2022',description:'Get up to 25% Off New Arrivals',img:'slider_3.jpg'}
+  {id:3,name:'GoGo Collection 2022',description:'Get up to 25% Off New Arrivals',img:'slider_3.jpg'},
+  {id:4,name:'Summer 2022',description:'BackToSchool',img:'slider_4.jpg'},
+  {id:5,name:'Hallowen',description:'Get up to 35% Off New Arrivals',img:'slider_5.jpg'}
 ];
 const db={
     "categories": categories,
