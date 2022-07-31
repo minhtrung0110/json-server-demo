@@ -123,7 +123,27 @@ const randomDetailInvoiceList = (invoiceList,productList,n) => {
 
 
 // prepare db object
-const categories=randomCategoryList(2)
+//const categories=randomCategoryList(2)
+const categories=[
+  {
+      "id": "61b7b751-6d25-4a37-83b7-ee629ddada18",
+      "name": "Top",
+      "createdAt": 1659277759825,
+      "updatedAt": 1659277759825
+  },
+  {
+      "id": "b2d94212-e0e4-459b-b688-5a09790db2cb",
+      "name": "Bottom",
+      "createdAt": 1659277759825,
+      "updatedAt": 1659277759825
+  },
+  {
+    "id": "a4r94212-e0e4-745h-a987-ee62990db2cb",
+    "name": "Accessories",
+    "createdAt": 1659277759825,
+    "updatedAt": 1659277759825
+}
+]
 const products=randomProductList(categories,3)
 const customers=randomCustomerList(1)
 const invoices=randomInvoiceList(customers,1)
