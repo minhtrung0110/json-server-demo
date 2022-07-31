@@ -127,13 +127,7 @@ const randomDetailInvoiceList = (invoiceList,productList,n) => {
 const categories=[
   {
       "id": "61b7b751-6d25-4a37-83b7-ee629ddada18",
-      "name": "Top",
-      "createdAt": 1659277759825,
-      "updatedAt": 1659277759825
-  },
-  {
-      "id": "b2d94212-e0e4-459b-b688-5a09790db2cb",
-      "name": "Bottom",
+      "name": "Women",
       "createdAt": 1659277759825,
       "updatedAt": 1659277759825
   },
@@ -142,7 +136,14 @@ const categories=[
     "name": "Accessories",
     "createdAt": 1659277759825,
     "updatedAt": 1659277759825
-}
+},
+  {
+      "id": "b2d94212-e0e4-459b-b688-5a09790db2cb",
+      "name": "Men",
+      "createdAt": 1659277759825,
+      "updatedAt": 1659277759825
+  },
+ 
 ]
 const products=randomProductList(categories,3)
 const customers=randomCustomerList(1)
