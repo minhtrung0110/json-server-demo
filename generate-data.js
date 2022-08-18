@@ -61,6 +61,7 @@ const randomCustomerList = (n) => {
         first_name: faker.name.firstName(),
         last_name:faker.name.lastName(),
         email:faker.internet.email(),
+          password:faker.internet.password(),
         phone:faker.phone.phoneNumber(),
         addresss:faker.address.streetAddress(),
         createdAt: Date.now(),
@@ -149,8 +150,32 @@ const categories=[
  
 ]
 const products=randomProductList(categories,3)
-const customers=randomCustomerList(1)
-const invoices=randomInvoiceList(customers,1)
+const customers=
+    [
+        {
+            "id": "0c2a7c3e-975f-4c68-9547-2a7a62f004bf",
+            "first_name": "Minh",
+            "last_name": "Trung",
+            "email": "minhtrung@gmail.com",
+            "password":"abcd1234",
+            "phone": "0216 8575 9425",
+            "addresss": "027 Phan Crescent",
+            "createdAt": 1660820193663,
+            "updatedAt": 1660820193663
+        },
+        {
+            "id": "0c2a7c3e-975f-4c68-9547-2a7a62f004bf",
+            "first_name": "Nguyen Van ",
+            "last_name": "A",
+            "email": "nguyenvana@gmail.com",
+            "password":"abcd1234",
+            "phone": "0216 8575 9425",
+            "addresss": "027 Phan Crescent",
+            "createdAt": 1660820193663,
+            "updatedAt": 1660820193663
+        }
+    ]//randomCustomerList(1)
+const invoices=randomInvoiceList(customers,)
 const detail_invoices=randomDetailInvoiceList(invoices,products,2)
 const sliders=[
   {id:1,name:'Abuta / Winter Collection 2021',description:'Get up to 30% Off New Arrivals',img:'slider_1.jpg'},
