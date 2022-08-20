@@ -184,6 +184,7 @@ const sliders=[
   {id:4,name:'Summer 2022',description:'BackToSchool',img:'slider_4.jpg'},
   {id:5,name:'Hallowen',description:'Get up to 35% Off New Arrivals',img:'slider_5.jpg'}
 ];
+const newarrivals=randomProductList(categories,1)
 const db={
     "categories": categories,
     "products": products,
@@ -191,6 +192,7 @@ const db={
     "invoices": invoices,
     "detail_invoices": detail_invoices,
     "sliders": sliders,
+    "newarrivals":newarrivals,
   }
 
 
