@@ -149,7 +149,7 @@ const categories=[
   },
  
 ]
-const products=randomProductList(categories,7)
+const products=randomProductList(categories,10)
 const customers=
     [
         {
